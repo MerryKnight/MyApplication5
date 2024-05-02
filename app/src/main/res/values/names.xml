@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="productNames">
+        <item> Яблоки </item>
+        <item> Ягоды </item>
+        <item> Орехи </item>
+        <item> RecyclerView </item>
+        <item> ScrollerView </item>
+        <item> Spinner </item>
+    </string-array>
+
+    <string-array name="appleNames">
+        <item>Голден </item>
+        <item>Гала </item>
+        <item>Фуджи </item>
+        <item>Карамелька </item>
+    </string-array>
+    <string-array name="berryNames">
+        <item>Малина </item>
+        <item>Черешня </item>
+        <item>Ежевика </item>
+        <item>Вишня </item>
+    </string-array>
+    <string-array name="nutNames">
+        <item>Лесной орех </item>
+        <item>Миндаль</item>
+        <item>Грецкий орех</item>
+        <item>Кедровый орех </item>
+    </string-array>
+</resources>
